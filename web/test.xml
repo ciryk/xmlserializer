@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<world>
+    <continent>
+        <continentname>Afrika</continentname>
+        <country>
+            <countryname>Belgium</countryname>
+            <place>
+                <placename>Westende</placename>
+                <forecast>
+                    <date>2017/05/22</date>
+                    <temperature>20</temperature>
+                    <wind>50</wind>
+                </forecast>
+                <forecast>
+                    <date>2017/05/24</date>
+                    <temperature>22</temperature>
+                    <wind>40</wind>
+                </forecast>
+            </place>
+        </country>
+        <country>
+            <countryname>France</countryname>
+            <place>
+                <placename>Paris</placename>
+                <forecast>
+                    <date>2017/05/23</date>
+                    <temperature>40</temperature>
+                    <wind>10</wind>
+                </forecast>
+            </place>
+        </country>
+    </continent>
+    <continent>
+        <continentname>Asia</continentname>
+        <country>
+            <countryname>China</countryname>
+            <place>
+                <placename>Lorem ipsum</placename>
+                <forecast>
+                    <date>2017/05/22</date>
+                    <temperature>40</temperature>
+                    <wind>2</wind>
+                </forecast>
+                <forecast>
+                    <date>2017/05/24</date>
+                    <temperature>42</temperature>
+                    <wind>3</wind>
+                </forecast>
+            </place>
+        </country>
+    </continent>
+</world>
